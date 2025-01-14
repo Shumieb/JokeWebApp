@@ -1,4 +1,6 @@
-### Joke App
+## Joke App
 
-## Web App built using HTML, CSS and JavaScript
+### Web App built using HTML, CSS and JavaScript
+
+#### API used: https://official-joke-api.appspot.com/random_joke 
 
